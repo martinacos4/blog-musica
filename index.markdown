@@ -6,4 +6,4 @@ layout: home
 list_title: Entradas
 ---
 
-Hola, soy Martin. Toco viola, flauta y teclado, y produzco música en el computador. Aquí cuento cómo empecé y cómo trabajo.
+Hola, soy Martin. Empecé tocando viola en Batuta cuando era niño y hoy paso buena parte de mi tiempo libre produciendo en FL Studio. Aquí cuento cómo llegué a la producción, qué programas uso y cómo grabo los instrumentos reales.

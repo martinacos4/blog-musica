@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img">
+  <title>Flauta traversa y flauta dulce</title>
+  <rect width="960" height="540" fill="#1c2333"/>
+  <rect x="60" y="70" width="840" height="400" rx="16" fill="#222b3e"/>
+  <rect x="110" y="186" width="740" height="30" rx="8" fill="#cfd6df" stroke="#8e98a6" stroke-width="3"/>
+  <rect x="104" y="183" width="16" height="36" rx="5" fill="#aab4c1"/>
+  <rect x="300" y="184" width="10" height="34" fill="#aab4c1"/>
+  <rect x="690" y="184" width="10" height="34" fill="#aab4c1"/>
+  <ellipse cx="200" cy="201" rx="26" ry="11" fill="#e9edf2" stroke="#8e98a6" stroke-width="2"/>
+  <ellipse cx="200" cy="201" rx="8" ry="5" fill="#3a4250"/>
+  <line x1="330" y1="230" x2="820" y2="230" stroke="#aab4c1" stroke-width="3"/>
+  <circle cx="350" cy="201" r="12" fill="#e9edf2" stroke="#8e98a6" stroke-width="2.5"/>
+  <circle cx="350" cy="201" r="4" fill="#8e98a6"/>
+  <circle cx="395" cy="201" r="12" fill="#e9edf2" stroke="#8e98a6" stroke-width="2.5"/>
+  <circle cx="395" cy="201" r="4" fill="#8e98a6"/>
+  <circle cx="440" cy="201" r="12" fill="#e9edf2" stroke="#8e98a6" stroke-width="2.5"/>
+  <circle cx="440" cy="201" r="4" fill="#8e98a6"/>
+  <circle cx="485" cy="201" r="12" fill="#e9edf2" stroke="#8e98a6" stroke-width="2.5"/>
+  <circle cx="485" cy="201" r="4" fill="#8e98a6"/>
+  <circle cx="545" cy="201" r="12" fill="#e9edf2" stroke="#8e98a6" stroke-width="2.5"/>
+  <circle cx="545" cy="201" r="4" fill="#8e98a6"/>
+  <circle cx="590" cy="201" r="12" fill="#e9edf2" stroke="#8e98a6" stroke-width="2.5"/>
+  <circle cx="590" cy="201" r="4" fill="#8e98a6"/>
+  <circle cx="635" cy="201" r="12" fill="#e9edf2" stroke="#8e98a6" stroke-width="2.5"/>
+  <circle cx="635" cy="201" r="4" fill="#8e98a6"/>
+  <ellipse cx="725" cy="201" rx="14" ry="10" fill="#e9edf2" stroke="#8e98a6" stroke-width="2.5"/>
+  <ellipse cx="765" cy="201" rx="14" ry="10" fill="#e9edf2" stroke="#8e98a6" stroke-width="2.5"/>
+  <ellipse cx="805" cy="201" rx="14" ry="10" fill="#e9edf2" stroke="#8e98a6" stroke-width="2.5"/>
+  <path d="M 250,330 L 300,320 L 700,326 L 722,322 L 722,354 L 700,350 L 300,356 L 250,346 Z" fill="#f3efe6" stroke="#c9bfa8" stroke-width="3"/>
+  <rect x="262" y="333" width="22" height="10" rx="2" fill="#1c2333"/>
+  <rect x="300" y="320" width="12" height="36" fill="#d9cdb2"/>
+  <rect x="520" y="320" width="12" height="36" fill="#d9cdb2"/>
+  <circle cx="360" cy="338" r="7" fill="#1c2333"/>
+  <circle cx="395" cy="338" r="7" fill="#1c2333"/>
+  <circle cx="430" cy="338" r="7" fill="#1c2333"/>
+  <circle cx="470" cy="338" r="7" fill="#1c2333"/>
+  <circle cx="560" cy="338" r="7" fill="#1c2333"/>
+  <circle cx="600" cy="338" r="7" fill="#1c2333"/>
+  <circle cx="640" cy="338" r="7" fill="#1c2333"/>
+  <ellipse cx="120" cy="120" rx="10" ry="7" transform="rotate(-20 120 120)" fill="#e0623c"/>
+  <line x1="129" y1="118" x2="129" y2="80" stroke="#e0623c" stroke-width="3"/>
+  <ellipse cx="150" cy="104" rx="10" ry="7" transform="rotate(-20 150 104)" fill="#e0623c"/>
+  <line x1="159" y1="102" x2="159" y2="64" stroke="#e0623c" stroke-width="3"/>
+  <ellipse cx="800" cy="410" rx="10" ry="7" transform="rotate(-20 800 410)" fill="#e0623c"/>
+  <line x1="809" y1="408" x2="809" y2="370" stroke="#e0623c" stroke-width="3"/>
+  <ellipse cx="835" cy="395" rx="10" ry="7" transform="rotate(-20 835 395)" fill="#e0623c"/>
+  <line x1="844" y1="393" x2="844" y2="355" stroke="#e0623c" stroke-width="3"/>
+  <line x1="129" y1="80" x2="159" y2="64" stroke="#e0623c" stroke-width="5"/>
+  <line x1="809" y1="370" x2="844" y2="355" stroke="#e0623c" stroke-width="5"/>
+</svg>

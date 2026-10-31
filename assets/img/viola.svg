@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img">
+  <title>Viola con su arco</title>
+  <rect width="960" height="540" fill="#1c2333"/>
+  <circle cx="480" cy="270" r="215" fill="#222b3e"/>
+  <g transform="rotate(32 480 270)">
+    <rect x="190" y="262" width="600" height="7" rx="3" fill="#7a4a24"/>
+    <line x1="205" y1="276" x2="770" y2="276" stroke="#eee6d4" stroke-width="3"/>
+    <rect x="760" y="258" width="34" height="24" rx="4" fill="#2b2b2b"/>
+    <rect x="186" y="262" width="14" height="16" rx="3" fill="#eee6d4"/>
+  </g>
+  <g transform="translate(486 318) rotate(-24) scale(0.8)">
+    <path d="M 0,-150 C 45,-150 78,-130 78,-95 C 78,-65 66,-52 62,-45 C 48,-35 44,-20 46,-5 C 48,10 52,20 66,25 C 80,40 88,60 88,90 C 88,130 50,150 0,150 C -50,150 -88,130 -88,90 C -88,60 -80,40 -66,25 C -52,20 -48,10 -46,-5 C -44,-20 -48,-35 -62,-45 C -66,-52 -78,-65 -78,-95 C -78,-130 -45,-150 0,-150 Z" fill="#b5652b" stroke="#6e3a16" stroke-width="5"/>
+    <path d="M 0,-150 C 45,-150 78,-130 78,-95 C 78,-65 66,-52 62,-45 C 48,-35 44,-20 46,-5 C 48,10 52,20 66,25 C 80,40 88,60 88,90 C 88,130 50,150 0,150 C -50,150 -88,130 -88,90 C -88,60 -80,40 -66,25 C -52,20 -48,10 -46,-5 C -44,-20 -48,-35 -62,-45 C -66,-52 -78,-65 -78,-95 C -78,-130 -45,-150 0,-150 Z" fill="none" stroke="#e0a066" stroke-width="2" transform="scale(0.93)" opacity="0.7"/>
+    <path d="M -30,-28 c 6,4 6,14 0,20 c -6,6 -6,22 0,30 c 6,8 6,18 0,24" fill="none" stroke="#3b1d0a" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="-30" cy="-29" r="4" fill="#3b1d0a"/>
+    <circle cx="-30" cy="47" r="4" fill="#3b1d0a"/>
+    <path d="M 30,-28 c -6,4 -6,14 0,20 c 6,6 6,22 0,30 c -6,8 -6,18 0,24" fill="none" stroke="#3b1d0a" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="30" cy="-29" r="4" fill="#3b1d0a"/>
+    <circle cx="30" cy="47" r="4" fill="#3b1d0a"/>
+    <ellipse cx="-42" cy="122" rx="30" ry="18" fill="#2b2b2b"/>
+    <path d="M -14,62 L 14,62 L 22,132 L -22,132 Z" fill="#2b2b2b"/>
+    <rect x="-28" y="20" width="56" height="9" rx="3" fill="#f0d9b0"/>
+    <path d="M -10,-262 L 10,-262 L 17,30 L -17,30 Z" fill="#1f1f1f"/>
+    <rect x="-13" y="-300" width="26" height="40" rx="6" fill="#8a4a1f" stroke="#6e3a16" stroke-width="3"/>
+    <circle cx="0" cy="-312" r="16" fill="#8a4a1f" stroke="#6e3a16" stroke-width="3"/>
+    <path d="M 0,-312 m -8,0 a 8,8 0 1 0 8,-8" fill="none" stroke="#6e3a16" stroke-width="3"/>
+    <rect x="-26" y="-292" width="13" height="7" rx="3" fill="#2b2b2b"/>
+    <rect x="13" y="-285" width="13" height="7" rx="3" fill="#2b2b2b"/>
+    <rect x="-26" y="-276" width="13" height="7" rx="3" fill="#2b2b2b"/>
+    <rect x="13" y="-269" width="13" height="7" rx="3" fill="#2b2b2b"/>
+    <line x1="-6" y1="-262" x2="-12" y2="64" stroke="#e8e8e8" stroke-width="1.6"/>
+    <line x1="-2" y1="-262" x2="-4" y2="64" stroke="#e8e8e8" stroke-width="1.6"/>
+    <line x1="2" y1="-262" x2="4" y2="64" stroke="#e8e8e8" stroke-width="1.6"/>
+    <line x1="6" y1="-262" x2="12" y2="64" stroke="#e8e8e8" stroke-width="1.6"/>
+  </g>
+</svg>
