@@ -25,6 +25,7 @@ baseurl: "/blog-musica" # the subpath of your site, e.g. /blog
 url: "https://martinacos4.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  martinacos4
 lang: es
+timezone: America/Bogota
 
 # Build settings
 theme: minima
