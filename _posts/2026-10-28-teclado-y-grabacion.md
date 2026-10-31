@@ -2,6 +2,7 @@
 layout: post
 title:  "Teclado y grabación"
 date:   2026-10-28 19:00:00 -0500
+image: /assets/img/setup-casa.svg
 ---
 El teclado es mi instrumento para componer. Pruebo los acordes en el piano y luego los paso al DAW con un controlador MIDI, que no suena solo pero me deja tocar los instrumentos virtuales. Ahora estoy buscando uno con pads y perillas para no depender tanto del mouse.
 

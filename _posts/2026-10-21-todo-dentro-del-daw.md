@@ -2,6 +2,7 @@
 layout: post
 title:  "Todo dentro del DAW"
 date:   2026-10-21 19:00:00 -0500
+image: /assets/img/daw-arreglo.svg
 ---
 Casi toda mi música la hago dentro del computador. He usado Ableton Live y FL Studio: en FL Studio armo ritmos rápido con el piano roll, y en Ableton organizo la canción y pruebo ideas.
 

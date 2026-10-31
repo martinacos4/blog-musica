@@ -2,6 +2,7 @@
 layout: post
 title:  "Cómo empecé"
 date:   2026-10-14 19:00:00 -0500
+image: /assets/img/partitura.svg
 ---
 Empecé en la música en Batuta cuando era pequeño. Allí aprendí a tocar la viola y a leer partituras, y tocar en la orquesta me enseñó a escuchar a los demás: la viola casi nunca lleva la melodía, pero sostiene la armonía.
 

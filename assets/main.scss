@@ -18,3 +18,19 @@ $background-color: #faf8f3;
 .post-content img {
   border-radius: 8px;
 }
+
+.post-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: $spacing-unit;
+
+  > li {
+    margin-bottom: 0;
+  }
+
+  img {
+    display: block;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+}
