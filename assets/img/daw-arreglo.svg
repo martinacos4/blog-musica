@@ -178,7 +178,7 @@
   <line x1="912.5" y1="316" x2="912.5" y2="428" stroke="#2a3348"/>
   <rect x="0" y="316" width="200" height="112" fill="#212a3c" stroke="#2d3750"/>
   <rect x="0" y="316" width="6" height="112" fill="#c98500"/>
-  <text x="22" y="354" fill="#eef0f4" font-size="19" font-weight="600">Guitarra</text>
+  <text x="22" y="354" fill="#eef0f4" font-size="19" font-weight="600">Cuerdas</text>
   <rect x="22" y="372" width="26" height="22" rx="5" fill="#2d3750"/>
   <text x="35" y="388" fill="#aab2c5" font-size="13" font-weight="700" text-anchor="middle">M</text>
   <rect x="54" y="372" width="26" height="22" rx="5" fill="#2d3750"/>
