@@ -100,6 +100,5 @@
     <ellipse cx="774.1" cy="386" rx="8.5" ry="6" transform="rotate(-20 774.1 386)" fill="#1c2333"/>
     <line x1="781.6" y1="384" x2="781.6" y2="342" stroke="#1c2333" stroke-width="2"/>
     <line x1="829" y1="330" x2="829" y2="386" stroke="#1c2333" stroke-width="2.5"/>
-    <text x="130" y="452" font-size="15" fill="#5a6175">Mis primeras partituras en Batuta</text>
   </g>
 </svg>
