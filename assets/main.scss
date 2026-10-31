@@ -1,0 +1,20 @@
+---
+---
+
+$brand-color: #b8432a;
+$background-color: #faf8f3;
+
+@import "minima";
+
+.site-header {
+  border-top-color: $brand-color;
+}
+
+.site-title,
+.site-title:visited {
+  color: $brand-color;
+}
+
+.post-content img {
+  border-radius: 8px;
+}
