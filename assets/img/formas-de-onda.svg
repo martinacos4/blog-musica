@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img">
+  <title>Las cuatro formas de onda básicas: seno, cuadrada, sierra y triangular</title>
+  <style>text { font-family: Inter, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }</style>
+  <rect width="960" height="540" fill="#1c2333"/>
+
+  <!-- Seno -->
+  <rect x="30" y="30" width="440" height="230" rx="16" fill="#252e42"/>
+  <text x="58" y="80" fill="#eef0f4" font-size="28" font-weight="700">Seno</text>
+  <text x="442" y="80" fill="#aab2c5" font-size="19" text-anchor="end">suave</text>
+  <line x1="58" y1="178" x2="442" y2="178" stroke="#3a4560" stroke-width="2" stroke-dasharray="6 6"/>
+  <path d="M58 178 L62 171.5 L66 165.1 L70 158.9 L74 153 L78 147.6 L82 142.6 L86 138.3 L90 134.7 L94 131.8 L98 129.7 L102 128.4 L106 128 L110 128.4 L114 129.7 L118 131.8 L122 134.7 L126 138.3 L130 142.6 L134 147.6 L138 153 L142 158.9 L146 165.1 L150 171.5 L154 178 L158 184.5 L162 190.9 L166 197.1 L170 203 L174 208.4 L178 213.4 L182 217.7 L186 221.3 L190 224.2 L194 226.3 L198 227.6 L202 228 L206 227.6 L210 226.3 L214 224.2 L218 221.3 L222 217.7 L226 213.4 L230 208.4 L234 203 L238 197.1 L242 190.9 L246 184.5 L250 178 L254 171.5 L258 165.1 L262 158.9 L266 153 L270 147.6 L274 142.6 L278 138.3 L282 134.7 L286 131.8 L290 129.7 L294 128.4 L298 128 L302 128.4 L306 129.7 L310 131.8 L314 134.7 L318 138.3 L322 142.6 L326 147.6 L330 153 L334 158.9 L338 165.1 L342 171.5 L346 178 L350 184.5 L354 190.9 L358 197.1 L362 203 L366 208.4 L370 213.4 L374 217.7 L378 221.3 L382 224.2 L386 226.3 L390 227.6 L394 228 L398 227.6 L402 226.3 L406 224.2 L410 221.3 L414 217.7 L418 213.4 L422 208.4 L426 203 L430 197.1 L434 190.9 L438 184.5 L442 178" fill="none" stroke="#e0623c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Cuadrada -->
+  <rect x="490" y="30" width="440" height="230" rx="16" fill="#252e42"/>
+  <text x="518" y="80" fill="#eef0f4" font-size="28" font-weight="700">Cuadrada</text>
+  <text x="902" y="80" fill="#aab2c5" font-size="19" text-anchor="end">hueca</text>
+  <line x1="518" y1="178" x2="902" y2="178" stroke="#3a4560" stroke-width="2" stroke-dasharray="6 6"/>
+  <path d="M518 178 V128 H614 V228 H710 V128 H806 V228 H902 V178" fill="none" stroke="#199e8a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Sierra -->
+  <rect x="30" y="280" width="440" height="230" rx="16" fill="#252e42"/>
+  <text x="58" y="330" fill="#eef0f4" font-size="28" font-weight="700">Sierra</text>
+  <text x="442" y="330" fill="#aab2c5" font-size="19" text-anchor="end">brillante</text>
+  <line x1="58" y1="428" x2="442" y2="428" stroke="#3a4560" stroke-width="2" stroke-dasharray="6 6"/>
+  <path d="M58 428 L154 378 V478 L346 378 V478 L442 428" fill="none" stroke="#c98500" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Triangular -->
+  <rect x="490" y="280" width="440" height="230" rx="16" fill="#252e42"/>
+  <text x="518" y="330" fill="#eef0f4" font-size="28" font-weight="700">Triangular</text>
+  <text x="902" y="330" fill="#aab2c5" font-size="19" text-anchor="end">intermedia</text>
+  <line x1="518" y1="428" x2="902" y2="428" stroke="#3a4560" stroke-width="2" stroke-dasharray="6 6"/>
+  <path d="M518 428 L566 378 L662 478 L758 378 L854 478 L902 428" fill="none" stroke="#9085e9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,5 @@
+title: Música hecha en casa
+description: Lo que voy aprendiendo sobre producción musical en casa.
+author: Martin Acosta
+baseurl: /blog-musica
+exclude: [README.md]

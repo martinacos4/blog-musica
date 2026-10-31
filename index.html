@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h1>Hola, soy Martin y hago música en casa</h1>
+<p>Aquí cuento lo que voy aprendiendo sobre producción musical: el equipo que uso, las DAW que he probado y los instrumentos que toco.</p>
+
+<div class="tarjetas">
+  {% for post in site.posts %}
+  <a class="tarjeta" href="{{ post.url | relative_url }}">
+    <img src="{{ post.imagen | relative_url }}" alt="{{ post.imagen_alt }}">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.date | date: "%d/%m/%Y" }} · {{ post.resumen }}</p>
+  </a>
+  {% endfor %}
+</div>
